@@ -113,7 +113,7 @@ node('kube_pod_slave'){
 ---
 ### Managing Releases with Helm/Tiller
  
-<img src="/assets/helm-tiller.png" style="width: 100%">
+<img src="./assets/helm-tiller.png" style="width: 100%">
 
 ---
 
